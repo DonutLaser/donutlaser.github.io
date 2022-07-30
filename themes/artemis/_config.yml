@@ -1,0 +1,24 @@
+name: Programming Adventures 
+url: https://DonutLaser.github.io
+
+menu:
+  Home: /
+  Archives: /archives
+  GitHub: https://github.com/DonutLaser
+
+favicon: /favicon.png
+logo: /logo.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+
+# Analytics
+mathjax: false
+google_analytics:
+
+# Copyright Infomation
+copyright:
+  since: 2022
+  name: Vidmantas Luneckas
+  url: htts://DonutLaser.github.io
