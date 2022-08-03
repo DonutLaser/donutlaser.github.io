@@ -10,6 +10,8 @@ My name is Vidmantas and I am a programmer from Vilnius, Lithuania. I work as a 
 Since I'm interested in lots of different programming topics, I decided to start writing this blog and share with the world about interesting things I have learned or developed. I intend this blog to be a mix of rants, showcases of my projects and maybe some tutorials.
 
 # Where to find me on the internet
-I have an `itch.io` page where you can find the games I have released: https://vidmantas.itch.io/  
-I also have a github account, where you can find all sorts of things that I have worked on in the last 4 years: https://github.com/DonutLaser  
-Other than that, you can reach me at `vidmantas.gamedev@gmail.com`  
+I have an `itch.io` page where you can find the games I have released: https://vidmantas.itch.io/
+
+I also have a github account, where you can find all sorts of things that I have worked on in the last 4 years: https://github.com/DonutLaser
+
+Other than that, you can reach me at `vidmantas.gamedev@gmail.com`
