@@ -6,7 +6,7 @@
   <link href="http://donutlaser.github.io/atom.xml" rel="self"/>
   
   <link href="http://donutlaser.github.io/"/>
-  <updated>2022-07-31T06:43:50.772Z</updated>
+  <updated>2022-08-03T19:31:03.089Z</updated>
   <id>http://donutlaser.github.io/</id>
   
   <author>
@@ -18,15 +18,15 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://donutlaser.github.io/2022/07/31/hello-world/"/>
-    <id>http://donutlaser.github.io/2022/07/31/hello-world/</id>
-    <published>2022-07-31T06:43:50.772Z</published>
-    <updated>2022-07-31T06:43:50.772Z</updated>
+    <link href="http://donutlaser.github.io/2022/08/03/hello-world/"/>
+    <id>http://donutlaser.github.io/2022/08/03/hello-world/</id>
+    <published>2022-08-03T19:31:03.089Z</published>
+    <updated>2022-08-03T19:31:03.089Z</updated>
     
-    <content type="html"><![CDATA[<p>This is my very first post</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Who-am-I"><a href="#Who-am-I" class="headerlink" title="Who am I?"></a>Who am I?</h1><p>My name is Vidmantas and I am a programmer from Vilnius, Lithuania. I work as a full-stack developer on a service that automatically digitizes invoices, but I’m interested in other programming topics as well. Those include: compilers, programming language design, video game development, cli tools, desktop applications, automation. One defining characteristic of mine is that I strive to be as efficient a programmer as possible and thus I really enjoy tinkering with the settings of IDEs, making tools for myself and looking for other tools on the internet that help me be efficient. When I am not programming, I play video games and board games, I read books, fiction and non-fiction, I play guitar (and have been doing so for the last 20 years) and I have recently started skateboarding which I enjoy immensely.</p><h1 id="The-blog"><a href="#The-blog" class="headerlink" title="The blog"></a>The blog</h1><p>Since I’m interested in lots of different programming topics, I decided to start writing this blog and share with the world about interesting things I have learned or developed. I intend this blog to be a mix of rants, showcases of my projects and maybe some tutorials.</p><h1 id="Where-to-find-me-on-the-internet"><a href="#Where-to-find-me-on-the-internet" class="headerlink" title="Where to find me on the internet"></a>Where to find me on the internet</h1><p>I have an <code>itch.io</code> page where you can find the games I have released: <a href="https://vidmantas.itch.io/">https://vidmantas.itch.io/</a><br>I also have a github account, where you can find all sorts of things that I have worked on in the last 4 years: <a href="https://github.com/DonutLaser">https://github.com/DonutLaser</a><br>Other than that, you can reach me at <code>vidmantas.gamedev@gmail.com</code>  </p>]]></content>
     
     
-    <summary type="html">Beginning of blogging</summary>
+    <summary type="html">Let me introduce myself</summary>
     
     
     
